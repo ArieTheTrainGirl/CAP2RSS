@@ -16,7 +16,7 @@ while True:
             with open('weas2sb.xml', 'wb') as f:
                 f.write(r1.content)
             with open('eass2sb.xml', 'wb') as f:
-                f.write(r1.content)
+                f.write(r2.content)
         except:
             print('Error encountered while writing the XML file! Exiting cleanly...')
             exit(2)
