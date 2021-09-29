@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ns1:alerts xmlns:ns1="http://gov.fema.ipaws.services/feed"><alert xmlns="urn:oasis:names:tc:emergency:cap:1.2"><identifier>urn:oid:2.49.0.1.840.0.1c382df42ddc98ad71b3bd86617705cd0427ca7e.001.1</identifier><sender>w-nws.webmaster@noaa.gov</sender><sent>2021-09-28T23:06:00-05:00</sent><status>Actual</status><msgType>Alert</msgType><scope>Public</scope><code>IPAWSv1.0</code><info><language>en-US</language><category>Met</category><event>Flash Flood Warning</event><responseType>Avoid</responseType><urgency>Immediate</urgency><severity>Severe</severity><certainty>Likely</certainty><eventCode><valueName>SAME</valueName><value>FFW</value></eventCode><eventCode><valueName>NationalWeatherService</valueName><value>FFW</value></eventCode><effective>2021-09-28T23:06:00-05:00</effective><onset>2021-09-28T23:06:00-05:00</onset><expires>2021-09-29T02:15:00-05:00</expires><senderName>NWS San Angelo TX</senderName><headline>Flash Flood Warning issued September 28 at 11:06PM CDT until September 29 at 2:15AM CDT by NWS San Angelo TX</headline><description>The National Weather Service in San Angelo has issued a
+
+* Flash Flood Warning for...
+Southeastern Kimble County in west central Texas...
+Southwestern Mason County in west central Texas...
+
+* Until 215 AM CDT.
+
+* At 1102 PM CDT, Doppler radar indicated thunderstorms producing
+heavy rain across the warned area. Between 2 and 3 inches of rain
+have fallen from just east-northeast of Segovia on northeast into
+southwest Mason county. Flash flooding is ongoing or expected to
+begin shortly.
+
+HAZARD...Life threatening flash flooding. Thunderstorms
+producing flash flooding.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets and underpasses.
+
+* Some locations that will experience flash flooding include...
+Segovia.
+</description><instruction>Turn around, don't drown when encountering flooded roads. Most flood
+deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Be aware of your surroundings and do not drive on flooded roads.</instruction><web>http://www.weather.gov</web><parameter><valueName>PIL</valueName><value>SJTFFWSJT</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>EAS</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>NWEM</value></parameter><parameter><valueName>EAS-ORG</valueName><value>WXR</value></parameter><parameter><valueName>VTEC</valueName><value>/O.NEW.KSJT.FF.W.0045.210929T0406Z-210929T0715Z/</value></parameter><parameter><valueName>eventEndingTime</valueName><value>2021-09-29T02:15:00-05:00</value></parameter><parameter><valueName>WEAHandling</valueName><value>Imminent Threat</value></parameter><parameter><valueName>CMAMtext</valueName><value>NWS: FLASH FLOOD WARNING this area til 2:15 AM CDT. Avoid flooded areas.</value></parameter><parameter><valueName>CMAMlongtext</valueName><value>National Weather Service: A FLASH FLOOD WARNING is in effect for this area until 2:15 AM CDT. This is a dangerous and life-threatening situation. Do not attempt to travel unless you are fleeing an area subject to flooding or under an evacuation order.</value></parameter><area><areaDesc>Kimble, TX; Mason, TX</areaDesc><polygon>30.5,-99.33 30.42,-99.49 30.38,-99.6 30.44,-99.72 30.63,-99.32 30.55,-99.25 30.5,-99.33</polygon><geocode><valueName>SAME</valueName><value>048267</value></geocode><geocode><valueName>SAME</valueName><value>048319</value></geocode><geocode><valueName>UGC</valueName><value>TXC267</value></geocode><geocode><valueName>UGC</valueName><value>TXC319</value></geocode></area></info><info><language>es-US</language><category>Met</category><event>Flash Flood Warning</event><responseType>Avoid</responseType><urgency>Immediate</urgency><severity>Severe</severity><certainty>Likely</certainty><eventCode><valueName>SAME</valueName><value>FFW</value></eventCode><eventCode><valueName>NationalWeatherService</valueName><value>FFW</value></eventCode><effective>2021-09-28T23:06:00-05:00</effective><onset>2021-09-28T23:06:00-05:00</onset><expires>2021-09-29T02:15:00-05:00</expires><senderName>NWS San Angelo TX</senderName><headline>Flash Flood Warning issued September 28 at 11:06PM CDT until September 29 at 2:15AM CDT by NWS San Angelo TX</headline><description>The National Weather Service in San Angelo has issued a
+
+* Flash Flood Warning for...
+Southeastern Kimble County in west central Texas...
+Southwestern Mason County in west central Texas...
+
+* Until 215 AM CDT.
+
+* At 1102 PM CDT, Doppler radar indicated thunderstorms producing
+heavy rain across the warned area. Between 2 and 3 inches of rain
+have fallen from just east-northeast of Segovia on northeast into
+southwest Mason county. Flash flooding is ongoing or expected to
+begin shortly.
+
+HAZARD...Life threatening flash flooding. Thunderstorms
+producing flash flooding.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets and underpasses.
+
+* Some locations that will experience flash flooding include...
+Segovia.
+</description><instruction>Turn around, don't drown when encountering flooded roads. Most flood
+deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+Be aware of your surroundings and do not drive on flooded roads.</instruction><web>http://www.weather.gov</web><parameter><valueName>PIL</valueName><value>SJTFFWSJT</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>EAS</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>NWEM</value></parameter><parameter><valueName>EAS-ORG</valueName><value>WXR</value></parameter><parameter><valueName>VTEC</valueName><value>/O.NEW.KSJT.FF.W.0045.210929T0406Z-210929T0715Z/</value></parameter><parameter><valueName>eventEndingTime</valueName><value>2021-09-29T02:15:00-05:00</value></parameter><parameter><valueName>WEAHandling</valueName><value>Imminent Threat</value></parameter><parameter><valueName>CMAMtext</valueName><value>SNM: AVISO DE INUNDACIONES REPENTINAS hasta 2:15 AM CDT. Evite areas inundadas.</value></parameter><parameter><valueName>CMAMlongtext</valueName><value>Servicio Nacional de Meteorologia: AVISO DE INUNDACIONES REPENTINAS en efecto para esta area hasta las 2:15 AM CDT. Esta es una situacion peligrosa y amenaza la vida. No intente viajar a menos que sea para abandonar un area propensa a inundaciones o bajo una orden de desalojo.</value></parameter><area><areaDesc>Kimble, TX; Mason, TX</areaDesc><polygon>30.5,-99.33 30.42,-99.49 30.38,-99.6 30.44,-99.72 30.63,-99.32 30.55,-99.25 30.5,-99.33</polygon><geocode><valueName>SAME</valueName><value>048267</value></geocode><geocode><valueName>SAME</valueName><value>048319</value></geocode><geocode><valueName>UGC</valueName><value>TXC267</value></geocode><geocode><valueName>UGC</valueName><value>TXC319</value></geocode></area></info><Signature xmlns="http://www.w3.org/2000/09/xmldsig#" xmlns:ns5="http://gov.fema.ipaws.services/IPAWS_CAPService/" xmlns:ns2="urn:oasis:names:tc:emergency:cap:1.2" xmlns:ns4="http://gov.fema.ipaws.services/capresponse" xmlns:ns3="http://gov.fema.ipaws.services/caprequest"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>MooJC86TfjfHIRyMmtSqOOnhEsaiENrGRHld+sB8X+w=</DigestValue></Reference></SignedInfo><SignatureValue>DQgrkUX5vZIzopHF3kF0dxmNJGx7FKt1UVzZyj/HvFuAHxUMtXFgvC6uPYLSC+NKEZCOxaEKJU2VH1oeCUczqDSvfPx+ntCbI/5L0BKYRP4VWc7wVHAYE3jAprBQ7bJYf4bXwkLEh5CJ6QzOpsrvB7J3FXku25MrTM/US1bTi73HvNYwg5nF7SoW1BXo0RVR7ldsYXm0eBZd55BEb6W6GEuTJS48EUDgfNV65jyB+uDMjQKFAT01Q/AxSo6R9fUGQg2myii5omJ9xEwePqn0W3aB7oqDCLaRFr0ohvM17v3SUz1Yu9ixQ/WJ0UfFrN1a+YfqAxouQtYWrSy2CZ6SsQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=IPAWSOPEN200032,OU=A01410C0000016FECA3CC6E0000D10E,OU=Devices IPAWS,OU=National Continuity Programs,O=FEMA IPAWS,C=US</X509SubjectName><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></alert><alert xmlns="urn:oasis:names:tc:emergency:cap:1.2"><identifier>urn:oid:2.49.0.1.840.0.31279a462263df2f49f73f2c58f6b20cba8179da.001.1</identifier><sender>w-nws.webmaster@noaa.gov</sender><sent>2021-09-28T23:23:00-05:00</sent><status>Actual</status><msgType>Alert</msgType><scope>Public</scope><code>IPAWSv1.0</code><info><language>en-US</language><category>Met</category><event>Flash Flood Warning</event><responseType>Avoid</responseType><urgency>Immediate</urgency><severity>Severe</severity><certainty>Likely</certainty><eventCode><valueName>SAME</valueName><value>FFW</value></eventCode><eventCode><valueName>NationalWeatherService</valueName><value>FFW</value></eventCode><effective>2021-09-28T23:23:00-05:00</effective><onset>2021-09-28T23:23:00-05:00</onset><expires>2021-09-29T02:30:00-05:00</expires><senderName>NWS Austin/San Antonio TX</senderName><headline>Flash Flood Warning issued September 28 at 11:23PM CDT until September 29 at 2:30AM CDT by NWS Austin/San Antonio TX</headline><description>The National Weather Service in Austin/San Antonio has issued a
+
+* Flash Flood Warning for...
+Northeastern Comal County in south central Texas...
+Central Hays County in south central Texas...
+
+* Until 230 AM CDT.
+
+* At 1123 PM CDT, Doppler radar indicated thunderstorms producing
+heavy rain across the warned area. Between 2 and 5 inches of rain
+have fallen from Spring Branch and Canyon Lake to Wimberley and
+Dripping Springs. Additional rainfall amounts of 1 to 3 inches are
+possible in the warned area. Flash flooding is ongoing or expected
+to begin shortly.
+
+HAZARD...Life threatening flash flooding. Thunderstorms
+producing flash flooding.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets and underpasses.
+
+* Some locations that will experience flash flooding include...
+Kyle, Wimberley, Canyon Lake Dam, Canyon Lake, Bulverde,
+Woodcreek, Fischer, Smithson Valley, Spring Branch, Sattler,
+Startzville and Hays City.
+
+This includes the following streams and drainages...
+West Fork Dry Comal Creek, Onion Creek, Spring Branch, Halifax
+Creek, Mustang Branch, Lone Man Creek, Blanco River, York Creek,
+Cypress Creek, Purgatory Creek, Yorks Creek, Swine Creek,
+Guadalupe River, Bear Creek, Cedar Fork, Plum Creek, Sink Creek,
+Dry Comal Creek, Carpers Creek, Elm Creek, Mountain Creek, Sorrel
+Creek, Rebecca Creek, Schultz Creek, Lewis Creek, Dry Bear Creek
+and Isaac Creek.
+</description><instruction>Turn around, don't drown when encountering flooded roads. Most flood
+deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+In hilly terrain there are hundreds of low water crossings which are
+potentially dangerous in heavy rain. Do not attempt to cross flooded
+roads. Find an alternate route.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.</instruction><web>http://www.weather.gov</web><parameter><valueName>PIL</valueName><value>EWXFFWEWX</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>EAS</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>NWEM</value></parameter><parameter><valueName>EAS-ORG</valueName><value>WXR</value></parameter><parameter><valueName>VTEC</valueName><value>/O.NEW.KEWX.FF.W.0051.210929T0423Z-210929T0730Z/</value></parameter><parameter><valueName>eventEndingTime</valueName><value>2021-09-29T02:30:00-05:00</value></parameter><parameter><valueName>WEAHandling</valueName><value>Imminent Threat</value></parameter><parameter><valueName>CMAMtext</valueName><value>NWS: FLASH FLOOD WARNING this area til 2:30 AM CDT. Avoid flooded areas.</value></parameter><parameter><valueName>CMAMlongtext</valueName><value>National Weather Service: A FLASH FLOOD WARNING is in effect for this area until 2:30 AM CDT. This is a dangerous and life-threatening situation. Do not attempt to travel unless you are fleeing an area subject to flooding or under an evacuation order.</value></parameter><area><areaDesc>Comal, TX; Hays, TX</areaDesc><polygon>30.06,-98.15 30.09,-98.04 30.09,-97.96 30.03,-97.9 30.01,-97.9 29.85,-98.07 29.83,-98.11 29.8,-98.23 29.79,-98.33 29.8,-98.4 29.85,-98.43 29.91,-98.42 29.95,-98.38 29.96,-98.36 29.94,-98.37 30.06,-98.15</polygon><geocode><valueName>SAME</valueName><value>048091</value></geocode><geocode><valueName>SAME</valueName><value>048209</value></geocode><geocode><valueName>UGC</valueName><value>TXC091</value></geocode><geocode><valueName>UGC</valueName><value>TXC209</value></geocode></area></info><info><language>es-US</language><category>Met</category><event>Flash Flood Warning</event><responseType>Avoid</responseType><urgency>Immediate</urgency><severity>Severe</severity><certainty>Likely</certainty><eventCode><valueName>SAME</valueName><value>FFW</value></eventCode><eventCode><valueName>NationalWeatherService</valueName><value>FFW</value></eventCode><effective>2021-09-28T23:23:00-05:00</effective><onset>2021-09-28T23:23:00-05:00</onset><expires>2021-09-29T02:30:00-05:00</expires><senderName>NWS Austin/San Antonio TX</senderName><headline>Flash Flood Warning issued September 28 at 11:23PM CDT until September 29 at 2:30AM CDT by NWS Austin/San Antonio TX</headline><description>The National Weather Service in Austin/San Antonio has issued a
+
+* Flash Flood Warning for...
+Northeastern Comal County in south central Texas...
+Central Hays County in south central Texas...
+
+* Until 230 AM CDT.
+
+* At 1123 PM CDT, Doppler radar indicated thunderstorms producing
+heavy rain across the warned area. Between 2 and 5 inches of rain
+have fallen from Spring Branch and Canyon Lake to Wimberley and
+Dripping Springs. Additional rainfall amounts of 1 to 3 inches are
+possible in the warned area. Flash flooding is ongoing or expected
+to begin shortly.
+
+HAZARD...Life threatening flash flooding. Thunderstorms
+producing flash flooding.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets and underpasses.
+
+* Some locations that will experience flash flooding include...
+Kyle, Wimberley, Canyon Lake Dam, Canyon Lake, Bulverde,
+Woodcreek, Fischer, Smithson Valley, Spring Branch, Sattler,
+Startzville and Hays City.
+
+This includes the following streams and drainages...
+West Fork Dry Comal Creek, Onion Creek, Spring Branch, Halifax
+Creek, Mustang Branch, Lone Man Creek, Blanco River, York Creek,
+Cypress Creek, Purgatory Creek, Yorks Creek, Swine Creek,
+Guadalupe River, Bear Creek, Cedar Fork, Plum Creek, Sink Creek,
+Dry Comal Creek, Carpers Creek, Elm Creek, Mountain Creek, Sorrel
+Creek, Rebecca Creek, Schultz Creek, Lewis Creek, Dry Bear Creek
+and Isaac Creek.
+</description><instruction>Turn around, don't drown when encountering flooded roads. Most flood
+deaths occur in vehicles.
+
+Be especially cautious at night when it is harder to recognize the
+dangers of flooding.
+
+In hilly terrain there are hundreds of low water crossings which are
+potentially dangerous in heavy rain. Do not attempt to cross flooded
+roads. Find an alternate route.
+
+Please report observed flooding to local emergency services or law
+enforcement and request they pass this information to the National
+Weather Service when you can do so safely.</instruction><web>http://www.weather.gov</web><parameter><valueName>PIL</valueName><value>EWXFFWEWX</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>EAS</value></parameter><parameter><valueName>BLOCKCHANNEL</valueName><value>NWEM</value></parameter><parameter><valueName>EAS-ORG</valueName><value>WXR</value></parameter><parameter><valueName>VTEC</valueName><value>/O.NEW.KEWX.FF.W.0051.210929T0423Z-210929T0730Z/</value></parameter><parameter><valueName>eventEndingTime</valueName><value>2021-09-29T02:30:00-05:00</value></parameter><parameter><valueName>WEAHandling</valueName><value>Imminent Threat</value></parameter><parameter><valueName>CMAMtext</valueName><value>SNM: AVISO DE INUNDACIONES REPENTINAS hasta 2:30 AM CDT. Evite areas inundadas.</value></parameter><parameter><valueName>CMAMlongtext</valueName><value>Servicio Nacional de Meteorologia: AVISO DE INUNDACIONES REPENTINAS en efecto para esta area hasta las 2:30 AM CDT. Esta es una situacion peligrosa y amenaza la vida. No intente viajar a menos que sea para abandonar un area propensa a inundaciones o bajo una orden de desalojo.</value></parameter><area><areaDesc>Comal, TX; Hays, TX</areaDesc><polygon>30.06,-98.15 30.09,-98.04 30.09,-97.96 30.03,-97.9 30.01,-97.9 29.85,-98.07 29.83,-98.11 29.8,-98.23 29.79,-98.33 29.8,-98.4 29.85,-98.43 29.91,-98.42 29.95,-98.38 29.96,-98.36 29.94,-98.37 30.06,-98.15</polygon><geocode><valueName>SAME</valueName><value>048091</value></geocode><geocode><valueName>SAME</valueName><value>048209</value></geocode><geocode><valueName>UGC</valueName><value>TXC091</value></geocode><geocode><valueName>UGC</valueName><value>TXC209</value></geocode></area></info><Signature xmlns="http://www.w3.org/2000/09/xmldsig#" xmlns:ns5="http://gov.fema.ipaws.services/IPAWS_CAPService/" xmlns:ns2="urn:oasis:names:tc:emergency:cap:1.2" xmlns:ns4="http://gov.fema.ipaws.services/capresponse" xmlns:ns3="http://gov.fema.ipaws.services/caprequest"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>Xbw301AL/V3ZXU2RT3hwcoucYsbHKLgbMXPc59wEBVg=</DigestValue></Reference></SignedInfo><SignatureValue>cWtPsy7oKpC9PzvFVyboEL994G4GJ9pOmdtLKvE6M4NaGlUul887Olnf7WGHEXXOoS4tlAn5HhFHZR9Y1qGMdQTpJ+tmm5l9a6tqgmJh1JFJH05kTjd1/UEUDmVEw2QNQ07QzMaTIqkvWyWeSyNX57LUX7SYGEEO6lf0FaB3Cjn1RbMOvj6ZjIV14+Gt9rEQpg6YFExHFyftoPXAOsRpahgwWSKEzdghEntEsBx9BjN+8rr8q9XwqGcG2WimxjXJ+k7wLTrY3rWFuqfdE75iAnrUnd3BwyRA7EYoW2m+ng0mZxJ5cACXe3LlZG8hI7IG7IleVPWrEF4ikhm1QuurRQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=IPAWSOPEN200032,OU=A01410C0000016FECA3CC6E0000D10E,OU=Devices IPAWS,OU=National Continuity Programs,O=FEMA IPAWS,C=US</X509SubjectName><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></alert></ns1:alerts>
