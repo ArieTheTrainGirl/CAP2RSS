@@ -43,7 +43,7 @@ for alerts in xml.findall('./alert:alert', ns):
                             title = CAPevent,
                             link = "https://www.wdfaradio.com/",
                             description = CAPdescription,
-                            pubDate = datetime.datetime(2003, 9, 6, 21, 31)),
+                            ),
                         )
                 except:
                     print("rip bozo")
