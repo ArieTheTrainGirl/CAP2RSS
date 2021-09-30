@@ -30,24 +30,23 @@ items = rssitemlist
 while True:
 
     for alerts in xml.findall('./alert:alert', ns):
-                if alerts.find('alert:msgType', ns).text == "Alert":
-                    try:
-                        CAPidentifier = alerts.find('alert:identifier', ns).text
-                        CAPsender = alerts.find('alert:sender', ns).text
-                        CAPinfo = alerts.find('alert:info', ns).text
-                        for info in alerts.findall('alert:info', ns):
-                            CAPdescription = info.find('alert:description', ns).text
-                            CAPevent = info.find('alert:event', ns).text
-                            print(CAPevent)
-                            rssitemlist.append(
-                                PyRSS2Gen.RSSItem(
-                                title = CAPevent,
-                                link = "https://www.wdfaradio.com/",
-                                description = CAPdescription,
-                                ),
-                            )
-                    except:
-                        print("rip bozo")
+        try:
+            CAPidentifier = alerts.find('alert:identifier', ns).text
+            CAPsender = alerts.find('alert:sender', ns).text
+            CAPinfo = alerts.find('alert:info', ns).text
+            for info in alerts.findall('alert:info', ns):
+                CAPdescription = info.find('alert:description', ns).text
+                CAPevent = info.find('alert:event', ns).text
+                print(CAPevent)
+                rssitemlist.append(
+                    PyRSS2Gen.RSSItem(
+                    title = CAPevent,
+                    link = "https://www.wdfaradio.com/",
+                    description = CAPdescription,
+                    ),
+                )
+        except:
+            print("rip bozo")
     try:
         rss.write_xml(open("eas.xml", "w"))
         print("FEMA IPAWS successfully converted to RSS!")

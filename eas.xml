@@ -1,2 +1,371 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<rss version="2.0"><channel><title>IPAWSCAP RSS Feed</title><link>https://www.wdfaradio.com/alerts/ipaws.html</link><description>Integrated Public Alert Warning System Common Alert Protocol RSS feed.</description><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs></channel></rss>
+<rss version="2.0"><channel><title>IPAWSCAP RSS Feed</title><link>https://www.wdfaradio.com/alerts/ipaws.html</link><description>Integrated Public Alert Warning System Common Alert Protocol RSS feed.</description><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Flood Warning</title><link>https://www.wdfaradio.com/</link><description>The Flood Warning has been cancelled and is no longer in effect.</description></item><item><title>Frost Advisory</title><link>https://www.wdfaradio.com/</link><description>* WHAT...Temperatures as low as 33 will result in frost
+formation.
+
+* WHERE...Converse County Lower Elevations, Niobrara County,
+East Platte County, Goshen County, Central Laramie County and
+East Laramie County.
+
+* WHEN...From 1 AM to 8 AM MDT Friday.
+
+* IMPACTS...Frost could kill sensitive outdoor vegetation if
+left uncovered.
+</description></item><item><title>Flash Flood Warning</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in Corpus Christi has issued a
+
+* Flash Flood Warning for...
+Central Nueces County in south central Texas...
+South Central San Patricio County in south central Texas...
+
+* Until 630 PM CDT.
+
+* At 326 PM CDT, Doppler radar indicated thunderstorms producing
+heavy rain across the warned area. Between 1 and 3 inches of rain
+have fallen. The expected rainfall rate is 2 to 4 inches in 1
+hour. Additional rainfall amounts of 1 to 2 inches are possible in
+the warned area. Flash flooding is ongoing or expected to begin
+shortly.
+
+HAZARD...Flash flooding caused by thunderstorms.
+
+SOURCE...Radar.
+
+IMPACT...Flash flooding of small creeks and streams, urban
+areas, highways, streets and underpasses as well as
+other poor drainage and low-lying areas.
+
+* Some locations that will experience flash flooding include...
+Corpus Christi, Corpus Christi International Airport, Clarkwood,
+Annaville, Tuloso, and Interstate 37.
+</description></item><item><title>Flood Advisory</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in San Juan has issued a
+
+* Urban and Small Stream Flood Advisory for...
+Lares in Puerto Rico...
+Maricao in Puerto Rico...
+Yauco in Puerto Rico...
+
+* Until 630 PM AST.
+
+* At 427 PM AST, Doppler radar indicated heavy rain due to
+thunderstorms. This will cause urban and small stream flooding.
+</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 327 PM CDT, Doppler radar was tracking a strong thunderstorm over
+Abilene, moving northeast at 15 mph.
+
+HAZARD...Winds in excess of 40 mph and half inch hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around
+unsecured objects. Minor damage to outdoor objects is
+possible.
+
+Locations impacted include...
+Abilene, Wylie, Hawley, Nugent, Hamby, Dyess Afb, Impact, Lake Fort
+Phantom Hill, Kirby Lake and The Intersection Of Us-
+180 And Farm Road 600.
+
+This includes Interstate 20 between Mile Markers 278 and 295.
+</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 328 PM CDT, Doppler radar was tracking a strong thunderstorm 8
+miles southeast of Castolon, or 22 miles southwest of Panther
+Junction, moving northeast at 25 mph.
+
+HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around
+unsecured objects. Minor damage to outdoor objects is
+possible.
+
+Locations impacted include...
+Panther Junction, Big Bend National Park and Chisos Basin.
+</description></item><item><title>Flash Flood Warning</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in San Angelo has issued a
+
+* Flash Flood Warning for...
+Northwestern Callahan County in west central Texas...
+Southeastern Jones County in west central Texas...
+Southwestern Shackelford County in west central Texas...
+Northeastern Taylor County in west central Texas...
+
+* Until 630 PM CDT.
+
+* At 329 PM CDT, Doppler radar indicated thunderstorms producing
+heavy rain across the warned area. Flash flooding is ongoing or
+expected to begin shortly.
+
+HAZARD...Life threatening flash flooding. Thunderstorms
+producing flash flooding.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets and underpasses.
+
+* Some locations that will experience flash flooding include...
+Abilene, Hamby, Impact and Lake Fort Phantom Hill.
+</description></item><item><title>Flash Flood Warning</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in San Angelo has issued a
+
+* Flash Flood Warning for...
+Northwestern Callahan County in west central Texas...
+Southeastern Jones County in west central Texas...
+Southwestern Shackelford County in west central Texas...
+Northeastern Taylor County in west central Texas...
+
+* Until 630 PM CDT.
+
+* At 329 PM CDT, Doppler radar indicated thunderstorms producing
+heavy rain across the warned area. Flash flooding is ongoing or
+expected to begin shortly.
+
+HAZARD...Life threatening flash flooding. Thunderstorms
+producing flash flooding.
+
+SOURCE...Radar.
+
+IMPACT...Life threatening flash flooding of creeks and streams,
+urban areas, highways, streets and underpasses.
+
+* Some locations that will experience flash flooding include...
+Abilene, Hamby, Impact and Lake Fort Phantom Hill.
+</description></item><item><title>Rip Current Statement</title><link>https://www.wdfaradio.com/</link><description>* WHAT...Dangerous rip currents along Gulf facing beaches.
+
+* WHERE...Matagorda Islands, Brazoria Islands, Galveston Island
+and Bolivar Peninsula.
+
+* WHEN...Until 8 PM CDT this evening.
+
+* IMPACTS...Rip currents can sweep even the best swimmers away
+from shore into deeper water.
+</description></item><item><title>Severe Thunderstorm Warning</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in Midland has issued a
+
+* Severe Thunderstorm Warning for...
+West central Brewster County in southwestern Texas...
+
+* Until 415 PM CDT.
+
+* At 331 PM CDT, a severe thunderstorm was located 29 miles northwest
+of Persimmon Gap, or 32 miles south of Alpine, moving northeast at
+20 mph.
+
+HAZARD...60 mph wind gusts and quarter size hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Hail damage to vehicles is expected. Expect wind damage
+to roofs, siding, and trees.
+
+* Locations impacted include...
+Elephant Mountain and Elephant Mountain Wildlife Management Area
+and US HWY 118.
+</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 331 PM CDT, Doppler radar was tracking a strong thunderstorm over
+Chico, or 9 miles north of Bridgeport, moving north at 10 mph.
+
+HAZARD...Winds in excess of 40 mph and half inch hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around
+unsecured objects. Minor damage to outdoor objects is
+possible.
+
+Locations impacted include...
+Alvord and Chico.
+</description></item><item><title>Flash Flood Watch</title><link>https://www.wdfaradio.com/</link><description>The Flash Flood Watch has been cancelled and is no longer in effect.</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 234 PM MDT, trained weather spotters reported a strong
+thunderstorm near West El Paso, moving northeast at 20 mph.
+
+HAZARD...Winds in excess of 40 mph and pea size hail.
+
+SOURCE...Trained weather spotters.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around
+unsecured objects. Minor damage to outdoor objects is
+possible.
+
+Locations impacted include...
+West El Paso, Northeast El Paso, Central El Paso, Anthony,
+Canutillo, Westway, Vinton and Franklin Mountains State Park.
+
+This includes Interstate 10 in Texas between mile markers 1 and 15.
+</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 337 PM CDT, Doppler radar was tracking a strong thunderstorm 12
+miles northwest of Marathon, or 15 miles east of Alpine, moving
+northeast at 20 mph.
+
+HAZARD...Wind gusts of 50 to 55 mph and nickel size hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around
+unsecured objects. Minor damage to outdoor objects is
+possible.
+
+Locations impacted include...
+Alpine.
+</description></item><item><title>Marine Weather Statement</title><link>https://www.wdfaradio.com/</link><description>A low pressure system will track northward through the eastern
+Gulf of Alaska on Friday, reaching the Cross Sound region by early
+Saturday morning, then shifting inland. SELY Storm Force winds of
+50 to 60 knots are expected over the outside waters, with gusts
+to hurricane force possible late Friday afternoon through late
+Friday night. A wind shift to the west-southwest will occur behind
+the low. Very high seas a likely near this low over the central
+and southern outside waters with wave heights in excess of 30 feet
+during the same timeframe.
+
+For the inside waters, SELY winds will increase to 35 to 50 knots
+from Icy Strait to Taku Inlet southward Friday evening, with
+strongest winds in Clarence Strait and near ocean entrances.
+Meanwhile, Glacier Bay and Lynn Canal will see winds ease and turn
+out of the north for Friday night, but as the low shifts inland
+Saturday morning, winds will shift to the south through the
+northern inner channels with a spike in wind speeds of 30 to 40
+knots.
+</description></item><item><title>Flash Flood Watch</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in Grand Junction has issued a
+
+* Flash Flood Watch for the Grizzly Creek Fire Burn Area in portions
+of northwest Colorado and west central Colorado, including the
+following areas, in northwest Colorado, Flat Tops. In west central
+Colorado, Central Colorado River Basin and Gore and Elk
+Mountains/Central Mountain Valleys.
+
+* Until 9 PM MDT this evening.
+
+* National Weather Service Meteorologists are forecasting possible
+heavy rainfall over the Grizzly Creek Fire Burn Area that may lead
+to flash flooding and debris flows.
+</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 442 PM EDT, Doppler radar was tracking a strong thunderstorm over
+Red Hill, moving southwest at 15 mph.
+
+HAZARD...Winds in excess of 30 mph.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around
+unsecured objects.
+
+Locations impacted include...
+Red Hill, Socastee, Horry Georgetown Technical College Conway Campus,
+Coastal Carolina University, Bucksville, Bucksport, Lighthouse Care
+Center Of Conway and Conway Medical Center.
+</description></item><item><title>Flood Advisory</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in Memphis has issued a
+
+* Urban and Small Stream Flood Advisory for...
+Western Carroll County in western Tennessee...
+Southeastern Gibson County in western Tennessee...
+Northwestern Henderson County in western Tennessee...
+Eastern Madison County in western Tennessee...
+
+* Until 545 PM CDT.
+
+* At 345 PM CDT, Doppler radar indicated heavy rain due to
+thunderstorms. This will cause urban and small stream flooding.
+Between 1 and 1.5 inches of rain have fallen.
+
+* Some locations that will experience flooding include...
+Jackson, Milan, McKenzie, Huntingdon, Fairview, Three Way, Atwood,
+Blue Goose, Bargerton, Bemis, Carroll, Medina, Trezevant,
+Clarksburg, McLemoresville, Hickory Flat, Lavinia, Mount Gilead,
+Cedar Grove and Whitthorne.
+</description></item><item><title>Severe Thunderstorm Warning</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in San Angelo has issued a
+
+* Severe Thunderstorm Warning for...
+Northeastern Nolan County in west central Texas...
+Southeastern Fisher County in west central Texas...
+Northwestern Taylor County in west central Texas...
+
+* Until 430 PM CDT.
+
+* At 344 PM CDT, a severe thunderstorm was located near Nolan, moving
+northeast at 10 mph.
+
+HAZARD...Ping pong ball size hail and 60 mph wind gusts.
+
+SOURCE...Radar indicated.
+
+IMPACT...People and animals outdoors will be injured. Expect hail
+damage to roofs, siding, windows, and vehicles. Expect
+wind damage to roofs, siding, and trees.
+
+* Locations impacted include...
+Nolan, Merkel, Trent, Camp Butman, Lake Sweetwater and The
+Intersection Of Highway 70 And Ranch Road 53.
+
+This includes Interstate 20 between Mile Markers 248 and 271.
+</description></item><item><title>Severe Thunderstorm Warning</title><link>https://www.wdfaradio.com/</link><description>At 345 PM CDT, a severe thunderstorm was located 21 miles north of
+Sanderson, moving northeast at 20 mph.
+
+HAZARD...Ping pong ball size hail and 60 mph wind gusts.
+
+SOURCE...Radar indicated.
+
+IMPACT...People and animals outdoors will be injured. Expect hail
+damage to roofs, siding, windows, and vehicles. Expect wind
+damage to roofs, siding, and trees.
+
+This severe thunderstorm will remain over mainly rural areas of south
+central Pecos and northwestern Terrell Counties.
+</description></item><item><title>Severe Thunderstorm Warning</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in Corpus Christi has issued a
+
+* Severe Thunderstorm Warning for...
+Central Nueces County in south central Texas...
+
+* Until 430 PM CDT.
+
+* At 347 PM CDT, a severe thunderstorm was located over Clarkwood, or
+over Corpus Christi International Airport, moving southeast at 5
+mph.
+
+HAZARD...60 mph wind gusts and penny size hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect damage to roofs, siding, and trees.
+
+* Locations impacted include...
+Corpus Christi, Corpus Christi International Airport, Del Mar
+College West Campus, Downtown Corpus Christi, Clarkwood and Tuloso.
+
+This includes the following highways...
+Interstate 37 between mile markers 1 and 10.
+US Highway 181 near mile marker 648.
+</description></item><item><title>Flood Advisory</title><link>https://www.wdfaradio.com/</link><description>The National Weather Service in Omaha/Valley has issued a
+
+* Small Stream Flood Advisory for...
+Northwestern Thurston County in northeastern Nebraska...
+Southeastern Wayne County in northeastern Nebraska...
+
+* Until 645 PM CDT.
+
+* At 348 PM CDT, Doppler radar indicated heavy rain due to
+thunderstorms. This will cause flooding of road ditches, culverts,
+and small streams. Between 2 and 4 inches of rain have fallen.
+
+* Some locations that will experience flooding include...
+Pender, Emerson and Thurston.
+
+Additional rainfall amounts up to 1 inch are expected over the area.
+</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 248 PM MDT, Doppler radar was tracking a strong thunderstorm near
+Allamoore, moving east at 15 mph.
+
+HAZARD...Winds in excess of 40 mph and penny size hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Gusty winds could knock down tree limbs and blow around
+unsecured objects. Minor damage to outdoor objects is
+possible.
+
+Locations impacted include...
+Allamoore.
+
+This includes Interstate 10 in Texas between mile markers 128 and
+134.
+</description></item><item><title>Special Weather Statement</title><link>https://www.wdfaradio.com/</link><description>At 448 PM EDT, Doppler radar was tracking a strong thunderstorm over
+Oatland, or 10 miles north of Georgetown, moving southwest at 20 mph.
+
+HAZARD...Penny size hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Minor damage to outdoor objects is possible.
+
+Locations impacted include...
+Graves and Oatland.
+</description></item></channel></rss>
