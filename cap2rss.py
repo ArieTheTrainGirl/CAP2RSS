@@ -9,26 +9,20 @@ capserverURL = "https://kj7bre.com/ipaws/server2server_bridge/ipaws.php?pin=209f
 
 
 
-# tree = ET.parse("sample.xml")
-# root = tree.getroot()
-
 def pollCAP():
     return requests.get(capserverURL).content
-
-xml = ET.fromstring(pollCAP())
-print(xml)
 
 rssitemlist = []
 
 rss = PyRSS2Gen.RSS2(
-title = "IPAWSCAP RSS Feed",
+title = "WDFARadio IPAWSCAP RSS Alert Feed",
 link = "https://www.wdfaradio.com/alerts/ipaws.html",
-description = "Integrated Public Alert Warning System Common Alert Protocol RSS feed.",
+description = "FEMA's Integrated Public Alert Warning System in an RSS feed, brought to you by WDFARadio.com.",
 items = rssitemlist
 )
 
 while True:
-
+    xml = ET.fromstring(pollCAP())
     for alerts in xml.findall('./alert:alert', ns):
         try:
             CAPidentifier = alerts.find('alert:identifier', ns).text
@@ -49,7 +43,9 @@ while True:
             print("rip bozo")
     try:
         rss.write_xml(open("eas.xml", "w"))
-        print("FEMA IPAWS successfully converted to RSS!")
+        t = time.localtime()
+        current_time = time.strftime("%H:%M:%S", t)
+        print("Polled IPAWS and wrote to RSS at " + current_time)
     except:
         print("FEMA IPAWS failed to write to XML...")
-    time.sleep(60)
+    time.sleep(30)
