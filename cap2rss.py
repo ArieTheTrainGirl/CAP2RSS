@@ -49,3 +49,4 @@ while True:
     except:
         print("FEMA IPAWS failed to write to XML...")
     time.sleep(30)
+    rssitemlist.clear()
