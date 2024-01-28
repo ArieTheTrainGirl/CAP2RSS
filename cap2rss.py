@@ -1,11 +1,9 @@
 import time
 import requests
-import os
 import xml.etree.ElementTree as ET
 import PyRSS2Gen
-import datetime
 ns = {'alert': 'urn:oasis:names:tc:emergency:cap:1.2'}
-capserverURL = "https://kj7bre.com/ipaws/server2server_bridge/ipaws.php?pin=209fbab696dcbe0adac2491335475a50&feed=eas"
+capserverURL = ""
 
 
 
